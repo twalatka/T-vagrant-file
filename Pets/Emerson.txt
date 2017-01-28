@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "Emerson is a wonderful Boxer"
+ls
+Emerson.txt
+Sugar.txt
